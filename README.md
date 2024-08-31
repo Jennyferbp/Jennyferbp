@@ -7,7 +7,7 @@ ___
 <div align="center">
   <a href="https://github.com/Jennyferbp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jennyferbarb&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyferbarb&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyferbp&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
 
 </div>
 
@@ -15,9 +15,9 @@ ____
 
 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="ergon-Java" height="30" width="40" src="https://icons8.com.br/icons/set/linguagem-de-programa%C3%A7%C3%A3o-java">
-  <img align="center" alt="ergon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ergon-Java" height="30" width="40" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/java.svg">
+  <img align="center" alt="ergon-HTML" height="30" width="40" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/html.svg">
+  <img align="center" alt="ergon-CSS" height="30" width="40" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/css.svg">
 </div>
   
 ____
