@@ -15,9 +15,9 @@ ____
 
 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="ergon-Java" height="30" width="40" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/java.svg">
-  <img align="center" alt="ergon-HTML" height="30" width="40" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/html.svg">
-  <img align="center" alt="ergon-CSS" height="30" width="40" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/css.svg">
+  <img align="center" alt="ergon-Java" height="40" width="50" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/java.svg">
+  <img align="center" alt="ergon-HTML" height="40" width="50" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/html.svg">
+  <img align="center" alt="ergon-CSS" height="40" width="50" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/css.svg">
 </div>
   
 ____
