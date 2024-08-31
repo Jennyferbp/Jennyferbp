@@ -6,7 +6,7 @@ ___
   
 <div align="center">
   <a href="https://github.com/Jennyferbp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jennyferbarb&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jennyferbp&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyferbp&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
 
 </div>
