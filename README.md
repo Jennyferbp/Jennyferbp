@@ -1,28 +1,45 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=993399&center=true&width=600&height=40&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a)++ao+meu+perfil+%F0%9F%91%8B%F0%9F%98%84;" alt="Typing SVG" /></a>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF99&center=true&vCenter=true&width=900&lines=⚡+Jennyfer+Barbosa;👩🏻‍💻+Front-end+Developer;💻+Code.+Debug.+Repeat.;🚀+Building+My+Dev+Future" />
+
 </div>
 
-___
-  
+---
+
+<h2 align="center">🧠 SYSTEM STATUS</h2>
+
 <div align="center">
-  <a href="https://github.com/Jennyferbp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jennyferbp&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyferbp&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
-
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FOCUS-FRONTEND-FF00FF?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEVEL-UPLOADING-00FFFF?style=for-the-badge&logo=rocket&logoColor=black"/>
 </div>
 
-____
+---
 
+<h2 align="center">⚔️ TECH STACK</h2>
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="ergon-Java" height="40" width="50" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/java.svg">
-  <img align="center" alt="ergon-HTML" height="40" width="50" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/html.svg">
-  <img align="center" alt="ergon-CSS" height="40" width="50" src="https://github.com/Jennyferbp/Jennyferbp/blob/main/css.svg">
-</div>
-  
-____
-  
 <div align="center">
-  <a href = "mailto:barbosaje.03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jennyfer-paiva-8a4012216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF99"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF4500"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </div>
+
+---
+
+<h2 align="center">📡 CONNECT</h2>
+
+<div align="center"> 
+  <a href="mailto:barbosaje.03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF99">
+  </a>
+  <a href="https://www.linkedin.com/in/jennyfer-paiva-8a4012216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF">
+  </a> 
+</div>
+
+
+
